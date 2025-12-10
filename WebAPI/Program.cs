@@ -50,6 +50,9 @@ builder.Services.AddScoped<IIntakeDal, EfIntakeDal>();
 // CaregiverPatient (Takip İlişkisi)
 builder.Services.AddScoped<ICaregiverPatientService, CaregiverPatientManager>();
 builder.Services.AddScoped<ICaregiverPatientDal, EfCaregiverPatientDal>();
+// alarm 
+builder.Services.AddScoped<INotificationService, NotificationManager>();
+builder.Services.AddScoped<INotificationDal, EfNotificationDal>();
 
 // --- YENİ ADIM: Authentication (Kimlik Doğrulama) Servisini Ekle ---
 // API'ye gelen 'Bearer' token'ları nasıl doğrulayacağını burada tanımlıyoruz.
