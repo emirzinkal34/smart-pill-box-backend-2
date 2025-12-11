@@ -23,9 +23,6 @@ D:\smart-pill-box-backend-main\smart-pill-box-backend-main\DataAccess\obj\Debug\
 D:\smart-pill-box-backend-main\smart-pill-box-backend-main\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
 D:\smart-pill-box-backend-main\smart-pill-box-backend-main\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
 D:\smart-pill-box-backend-main\smart-pill-box-backend-main\DataAccess\obj\Debug\net8.0\DataAccess.sourcelink.json
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\DataAccess\obj\Debug\net8.0\DataAccess.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\DataAccess\obj\Debug\net8.0\DataAccess.pdb
 D:\smart-pill-box-backend-main\smart-pill-box-backend-main\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
 D:\smart-pill-box-backend-main\smart-pill-box-backend-main\DataAccess\bin\Debug\net8.0\DataAccess.runtimeconfig.json
 D:\smart-pill-box-backend-main\smart-pill-box-backend-main\DataAccess\bin\Debug\net8.0\DataAccess.dll
@@ -35,5 +32,8 @@ D:\smart-pill-box-backend-main\smart-pill-box-backend-main\DataAccess\bin\Debug\
 D:\smart-pill-box-backend-main\smart-pill-box-backend-main\DataAccess\bin\Debug\net8.0\Core.pdb
 D:\smart-pill-box-backend-main\smart-pill-box-backend-main\DataAccess\bin\Debug\net8.0\Entities.pdb
 D:\smart-pill-box-backend-main\smart-pill-box-backend-main\DataAccess\obj\Debug\net8.0\DataAccess.csproj.Up2Date
+D:\smart-pill-box-backend-main\smart-pill-box-backend-main\DataAccess\obj\Debug\net8.0\DataAccess.dll
+D:\smart-pill-box-backend-main\smart-pill-box-backend-main\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+D:\smart-pill-box-backend-main\smart-pill-box-backend-main\DataAccess\obj\Debug\net8.0\DataAccess.pdb
 D:\smart-pill-box-backend-main\smart-pill-box-backend-main\DataAccess\obj\Debug\net8.0\DataAccess.genruntimeconfig.cache
 D:\smart-pill-box-backend-main\smart-pill-box-backend-main\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll

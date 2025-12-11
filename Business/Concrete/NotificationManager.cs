@@ -22,14 +22,15 @@ namespace Business.Concrete
             return new SuccessResult("Notification added");
         }
 
-        public IDataResult<List<Notification>> GetByPatient(int patientId)
-        {
-            var list = _notificationDal
-                .GetAll(n => n.PatientId == patientId)
-                .OrderByDescending(n => n.CreatedAt)
-                .ToList();
+    public IDataResult<List<Notification>> GetByPatient(int patientId)
+{
+    var list = _notificationDal
+        .GetList(n => n.PatientId == patientId)   // <-- أهم شي هون
+        .OrderByDescending(n => n.CreatedAt)
+        .ToList();
 
-            return new SuccessDataResult<List<Notification>>(list);
-        }
+    return new SuccessDataResult<List<Notification>>(list);
+}
+
     }
 }
