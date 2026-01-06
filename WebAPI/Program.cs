@@ -50,7 +50,8 @@ builder.Services.AddScoped<IIntakeDal, EfIntakeDal>();
 // CaregiverPatient (Takip İlişkisi)
 builder.Services.AddScoped<ICaregiverPatientService, CaregiverPatientManager>();
 builder.Services.AddScoped<ICaregiverPatientDal, EfCaregiverPatientDal>();
-// alarm 
+
+// BİLDİRİM SİSTEMİ SERVİSLERİ
 builder.Services.AddScoped<INotificationService, NotificationManager>();
 builder.Services.AddScoped<INotificationDal, EfNotificationDal>();
 
@@ -75,6 +76,8 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
     });
 // ---------------------------------------------------------------
 
+// Arka Plan Servisini (Dedektif) Başlat
+builder.Services.AddHostedService<WebAPI.BackgroundServices.MedicationCheckService>();
 
 // --- 4. API Servislerini Ekle ---
 builder.Services.AddControllers();

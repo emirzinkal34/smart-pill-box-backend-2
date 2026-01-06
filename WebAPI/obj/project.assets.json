@@ -3458,11 +3458,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/WebAPI.csproj",
+      "projectUniqueName": "/Users/emirhanzinkal/Desktop/smart-pill-box-backend-main/WebAPI/WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/WebAPI.csproj",
+      "projectPath": "/Users/emirhanzinkal/Desktop/smart-pill-box-backend-main/WebAPI/WebAPI.csproj",
       "packagesPath": "/Users/emirhanzinkal/.nuget/packages/",
-      "outputPath": "/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/obj/",
+      "outputPath": "/Users/emirhanzinkal/Desktop/smart-pill-box-backend-main/WebAPI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/emirhanzinkal/.nuget/NuGet/NuGet.Config"
@@ -3477,17 +3477,17 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/Business/Business.csproj": {
-              "projectPath": "/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/Business/Business.csproj"
+            "/Users/emirhanzinkal/Desktop/smart-pill-box-backend-main/Business/Business.csproj": {
+              "projectPath": "/Users/emirhanzinkal/Desktop/smart-pill-box-backend-main/Business/Business.csproj"
             },
-            "/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/Core/Core.csproj": {
-              "projectPath": "/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/Core/Core.csproj"
+            "/Users/emirhanzinkal/Desktop/smart-pill-box-backend-main/Core/Core.csproj": {
+              "projectPath": "/Users/emirhanzinkal/Desktop/smart-pill-box-backend-main/Core/Core.csproj"
             },
-            "/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/DataAccess/DataAccess.csproj": {
-              "projectPath": "/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/DataAccess/DataAccess.csproj"
+            "/Users/emirhanzinkal/Desktop/smart-pill-box-backend-main/DataAccess/DataAccess.csproj": {
+              "projectPath": "/Users/emirhanzinkal/Desktop/smart-pill-box-backend-main/DataAccess/DataAccess.csproj"
             },
-            "/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/Entities/Entities.csproj": {
-              "projectPath": "/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/Entities/Entities.csproj"
+            "/Users/emirhanzinkal/Desktop/smart-pill-box-backend-main/Entities/Entities.csproj": {
+              "projectPath": "/Users/emirhanzinkal/Desktop/smart-pill-box-backend-main/Entities/Entities.csproj"
             }
           }
         }
