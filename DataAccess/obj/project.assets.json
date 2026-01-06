@@ -2595,42 +2595,35 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\90552\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/Users/emirhanzinkal/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\smart-pill-box-backend-main\\smart-pill-box-backend-main\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/DataAccess/DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "D:\\smart-pill-box-backend-main\\smart-pill-box-backend-main\\DataAccess\\DataAccess.csproj",
-      "packagesPath": "C:\\Users\\90552\\.nuget\\packages\\",
-      "outputPath": "D:\\smart-pill-box-backend-main\\smart-pill-box-backend-main\\DataAccess\\obj\\",
+      "projectPath": "/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/DataAccess/DataAccess.csproj",
+      "packagesPath": "/Users/emirhanzinkal/.nuget/packages/",
+      "outputPath": "/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/DataAccess/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\90552\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/emirhanzinkal/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\smart-pill-box-backend-main\\smart-pill-box-backend-main\\Core\\Core.csproj": {
-              "projectPath": "D:\\smart-pill-box-backend-main\\smart-pill-box-backend-main\\Core\\Core.csproj"
+            "/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/Core/Core.csproj": {
+              "projectPath": "/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/Core/Core.csproj"
             },
-            "D:\\smart-pill-box-backend-main\\smart-pill-box-backend-main\\Entities\\Entities.csproj": {
-              "projectPath": "D:\\smart-pill-box-backend-main\\smart-pill-box-backend-main\\Entities\\Entities.csproj"
+            "/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/Entities/Entities.csproj": {
+              "projectPath": "/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/Entities/Entities.csproj"
             }
           }
         }
@@ -2644,8 +2637,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.300"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -2688,7 +2680,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/Users/emirhanzinkal/.dotnet/sdk/8.0.413/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
