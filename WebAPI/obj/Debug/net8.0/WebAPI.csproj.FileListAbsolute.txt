@@ -125,133 +125,261 @@
 /Users/emirhanzinkal/Desktop/ilaçTakip-be/WebAPI/obj/Debug/net8.0/WebAPI.pdb
 /Users/emirhanzinkal/Desktop/ilaçTakip-be/WebAPI/obj/Debug/net8.0/WebAPI.genruntimeconfig.cache
 /Users/emirhanzinkal/Desktop/ilaçTakip-be/WebAPI/obj/Debug/net8.0/ref/WebAPI.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\appsettings.Development.json
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\appsettings.json
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\WebAPI.staticwebassets.endpoints.json
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\WebAPI.exe
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\WebAPI.deps.json
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\WebAPI.runtimeconfig.json
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\WebAPI.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\WebAPI.pdb
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\Humanizer.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\Npgsql.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\System.CodeDom.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\System.Composition.Convention.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\Business.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\Core.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\DataAccess.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\Entities.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\Core.pdb
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\Entities.pdb
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\DataAccess.pdb
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\bin\Debug\net8.0\Business.pdb
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\obj\Debug\net8.0\WebAPI.csproj.AssemblyReference.cache
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\obj\Debug\net8.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\obj\Debug\net8.0\WebAPI.AssemblyInfoInputs.cache
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\obj\Debug\net8.0\WebAPI.AssemblyInfo.cs
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\obj\Debug\net8.0\WebAPI.csproj.CoreCompileInputs.cache
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\obj\Debug\net8.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\obj\Debug\net8.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\obj\Debug\net8.0\WebAPI.sourcelink.json
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\obj\Debug\net8.0\scopedcss\bundle\WebAPI.styles.css
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\obj\Debug\net8.0\staticwebassets.build.json
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\obj\Debug\net8.0\staticwebassets.development.json
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\obj\Debug\net8.0\WebAPI.csproj.Up2Date
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\obj\Debug\net8.0\WebAPI.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\obj\Debug\net8.0\refint\WebAPI.dll
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\obj\Debug\net8.0\WebAPI.pdb
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\obj\Debug\net8.0\WebAPI.genruntimeconfig.cache
-D:\smart-pill-box-backend-main\smart-pill-box-backend-main\WebAPI\obj\Debug\net8.0\ref\WebAPI.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/appsettings.Development.json
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/appsettings.json
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/WebAPI.staticwebassets.endpoints.json
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/WebAPI.exe
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/WebAPI.deps.json
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/WebAPI.runtimeconfig.json
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/WebAPI.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/WebAPI.pdb
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Humanizer.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Binder.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Microsoft.OpenApi.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Mono.TextTemplating.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Npgsql.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/System.CodeDom.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/System.Composition.Convention.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/System.Composition.Hosting.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/System.Composition.Runtime.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/System.Composition.TypedParts.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Business.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Core.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/DataAccess.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Entities.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Core.pdb
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Entities.pdb
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/DataAccess.pdb
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Business.pdb
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/obj/Debug/net8.0/WebAPI.csproj.AssemblyReference.cache
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/obj/Debug/net8.0/rpswa.dswa.cache.json
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/obj/Debug/net8.0/WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/obj/Debug/net8.0/WebAPI.AssemblyInfoInputs.cache
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/obj/Debug/net8.0/WebAPI.AssemblyInfo.cs
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/obj/Debug/net8.0/WebAPI.csproj.CoreCompileInputs.cache
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/obj/Debug/net8.0/WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/obj/Debug/net8.0/WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/obj/Debug/net8.0/WebAPI.sourcelink.json
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/obj/Debug/net8.0/rjimswa.dswa.cache.json
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/obj/Debug/net8.0/rjsmrazor.dswa.cache.json
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/obj/Debug/net8.0/rjsmcshtml.dswa.cache.json
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/obj/Debug/net8.0/scopedcss/bundle/WebAPI.styles.css
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/obj/Debug/net8.0/staticwebassets.build.json
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/obj/Debug/net8.0/staticwebassets.build.json.cache
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/obj/Debug/net8.0/staticwebassets.development.json
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/obj/Debug/net8.0/WebAPI.csproj.Up2Date
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/obj/Debug/net8.0/WebAPI.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/obj/Debug/net8.0/refint/WebAPI.dll
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/obj/Debug/net8.0/WebAPI.pdb
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/obj/Debug/net8.0/WebAPI.genruntimeconfig.cache
+D:/smart-pill-box-backend-main/smart-pill-box-backend-main/WebAPI/obj/Debug/net8.0/ref/WebAPI.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/appsettings.Development.json
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/appsettings.json
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/WebAPI
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/WebAPI.deps.json
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/WebAPI.runtimeconfig.json
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/WebAPI.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/WebAPI.pdb
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Humanizer.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Binder.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Npgsql.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/System.CodeDom.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Business.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Core.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/DataAccess.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Entities.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Core.pdb
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Entities.pdb
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/DataAccess.pdb
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/bin/Debug/net8.0/Business.pdb
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/obj/Debug/net8.0/WebAPI.csproj.AssemblyReference.cache
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/obj/Debug/net8.0/WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/obj/Debug/net8.0/WebAPI.AssemblyInfoInputs.cache
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/obj/Debug/net8.0/WebAPI.AssemblyInfo.cs
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/obj/Debug/net8.0/WebAPI.csproj.CoreCompileInputs.cache
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/obj/Debug/net8.0/WebAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/obj/Debug/net8.0/WebAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/obj/Debug/net8.0/WebAPI.sourcelink.json
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/obj/Debug/net8.0/staticwebassets.build.json
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/obj/Debug/net8.0/staticwebassets.development.json
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/obj/Debug/net8.0/staticwebassets/msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/obj/Debug/net8.0/staticwebassets/msbuild.build.WebAPI.props
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.WebAPI.props
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.WebAPI.props
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/obj/Debug/net8.0/scopedcss/bundle/WebAPI.styles.css
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/obj/Debug/net8.0/WebAPI.csproj.Up2Date
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/obj/Debug/net8.0/WebAPI.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/obj/Debug/net8.0/refint/WebAPI.dll
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/obj/Debug/net8.0/WebAPI.pdb
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/obj/Debug/net8.0/WebAPI.genruntimeconfig.cache
+/Users/emirhanzinkal/Desktop/Smart Medication/smart-pill-box-backend-main/WebAPI/obj/Debug/net8.0/ref/WebAPI.dll
